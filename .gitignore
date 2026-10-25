@@ -1,0 +1,10 @@
+# local data and secrets
+trips.db
+.env
+.streamlit/secrets.toml
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
